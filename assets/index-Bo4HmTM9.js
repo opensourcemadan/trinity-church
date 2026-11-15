@@ -12259,12 +12259,7 @@ function Footer({ onNavigate, onOpenStaticExport }) {
 					" Trinity Nepalese Church. All are welcome."
 				] }), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
 					className: "flex flex-wrap items-center gap-4",
-					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { children: "Mortdale NSW 2223 · Minto NSW 2566" }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("button", {
-						type: "button",
-						onClick: onOpenStaticExport,
-						className: "text-[#8C2D19] font-medium hover:underline cursor-pointer",
-						children: "Export Static Site (.zip)"
-					})]
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { children: "Mortdale NSW 2223 · Minto NSW 2566" })]
 				})]
 			})]
 		})
